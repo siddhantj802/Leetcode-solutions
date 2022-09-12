@@ -1,2 +1,2 @@
 # Leetcode-solutions
-This is the easy code of twoSums problem on LeetCode.
+This is the easy code of problems on LeetCode.
